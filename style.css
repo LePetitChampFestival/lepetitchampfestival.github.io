@@ -109,6 +109,11 @@
       margin-bottom: 18px;
     }
     .hero-title .line2 { color: var(--teal); }
+    .hero-title .hero-titleFestival {
+      font-size: clamp(2.8rem, 4vw, 4.5rem);
+      display: block;
+      margin-top: 2px;
+    }
     .hero-dates {
       font-family: 'Anton', sans-serif;
       font-size: clamp(1.6rem, 3vw, 2.2rem);
